@@ -1,4 +1,4 @@
-# Polarimeter_script for Anton Paar MCP 150 - Polarimeter
+# Polarimeter script for Anton Paar MCP 150 - Polarimeter
 
 Requires an RS-232 connection from the back of the polarimeter to the computer in question
 
